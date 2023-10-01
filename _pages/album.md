@@ -9,7 +9,7 @@ categories: album
 <div class="container">
 <div class="row g-4">
 
-{% sidenav.html %}
+{% include sidenav.html %}
 
 <!-- Main content START -->
 <div class="col-md-8 col-lg-6 vstack gap-4">
