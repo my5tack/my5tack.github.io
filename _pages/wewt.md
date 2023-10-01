@@ -3,45 +3,13 @@ layout: default1
 permalink: /album1.html
 title:  "Welcome to Emersa"
 date:   2023-02-19 03:52:04 +0000
-categories: emersa
+categories: album
 ---
 <!-- Container START -->
 <div class="container">
 <div class="row g-4">
 
-<!-- Sidenav START -->
-<div class="col-lg-3">
-
-<!-- Advanced filter responsive toggler START -->
-<div class="d-flex align-items-center d-lg-none">
-<button class="border-0 bg-transparent" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasSideNavbar" aria-controls="offcanvasSideNavbar">
-<span class="btn btn-primary"><i class="fa-solid fa-sliders-h"></i></span>
-<span class="h6 mb-0 fw-bold d-lg-none ms-2">My profile</span>
-</button>
-</div>
-<!-- Advanced filter responsive toggler END -->
-
-<!-- Navbar START-->
-<nav class="navbar navbar-expand-lg mx-0"> 
-<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasSideNavbar">
-<!-- Offcanvas header -->
-<div class="offcanvas-header">
-<button type="button" class="btn-close text-reset ms-auto" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-</div>
-
-<!-- Offcanvas body -->
-<div class="offcanvas-body d-block px-2 px-lg-0">
-{% include card.html %}
-
-{% include helper.html %}
-<!-- Copyright -->
-<p class="small text-center mt-1">©2023 <a class="text-body" target="_blank" href="https://www.webestica.com/"> Webestica </a></p>
-</div>
-</div>
-</nav>
-<!-- Navbar END-->
-</div>
-<!-- Sidenav END -->
+{% sidenav.html %}
 
 <!-- Main content START -->
 <div class="col-md-8 col-lg-6 vstack gap-4">
