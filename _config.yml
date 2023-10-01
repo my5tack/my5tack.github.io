@@ -13,3 +13,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 permalink: /:year/:title:output_ext
+
+include:
+ - _pages
+ - _posts
