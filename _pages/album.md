@@ -4,6 +4,8 @@ permalink: /albums.html
 title:  "Album"
 date:   2023-02-19 03:52:04 +0000
 categories: album
+head: "head1.html"
+header: "header1.html"
 extrascripts:
   - url: "/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"
   - url: "/assets/vendor/glightbox-master/dist/js/glightbox.min.js"

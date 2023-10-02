@@ -1,13 +1,19 @@
 
 <!DOCTYPE html>
 <html lang="en">
+{% if page.head %}
+{% include {{ page.head }} %}
+{{ else }}
 {% include head1.html %}
-
+{% endif %}
 <body>
-
 <!-- =======================
 Header START -->
+{% if page.header %}
+{% include {{ page.header }} %}
+{{ else }}
 {% include header1.html %}
+{% endif %}
 <!-- =======================
 Header END -->
 
