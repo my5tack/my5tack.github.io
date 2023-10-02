@@ -19,7 +19,9 @@ extrascripts:
 - url: "/assets/js/zuck-stories.js"
 - url: "/assets/js/functions.js"
 myvariables:
-- url: "modcreatealbum.html"
+- url: "mainchat.html"
+- url: "modcreatefeed.html"
+- url: "createfeedphoto.html"
 ---
 <!-- Container START -->
 <div class="container">
