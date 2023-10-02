@@ -1,7 +1,7 @@
 ---
 layout: default1
 permalink: /albums.html
-title:  "Welcome to Emersa"
+title:  "Album"
 date:   2023-02-19 03:52:04 +0000
 categories: album
 extrascripts:
