@@ -10,6 +10,8 @@ extrascripts:
   - url: "/assets/vendor/choices.js/public/assets/scripts/choices.min.js"
   - url: "/assets/vendor/dropzone/dist/min/dropzone.min.js"
   - url: "/assets/js/functions.js"
+myvariables:
+  - url: "modcreatealbum.html"
 ---
 <!-- Container START -->
 <div class="container">

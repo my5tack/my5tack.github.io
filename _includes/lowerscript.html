@@ -1,2 +1,4 @@
+{% if page.extrascripts %}
 {% for script in page.extrascripts %}<script src="{{ script.url }}"></script>
 {% endfor %}
+{% endif %}
