@@ -4,6 +4,16 @@ permalink: /albums.html
 title:  "Welcome to Emersa"
 date:   2023-02-19 03:52:04 +0000
 categories: album
+extrascripts:
+  - name: "Sarah Becker"
+    role: "project lead"
+    start_date: "2016-02-01"
+  - name: "Jane Smith"
+    role: maintainer
+    start_date: "2018-03-15"
+  - name: "Albert Hamilton"
+    role: editor
+    start_date: "2017-12-01"
 ---
 <!-- Container START -->
 <div class="container">
