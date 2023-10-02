@@ -73,8 +73,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/01.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/01.jpg" alt="">
+<a href="/assets/images/albums/01.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/01.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -82,7 +82,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -139,7 +139,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -153,7 +153,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -208,8 +208,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/02.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/02.jpg" alt="">
+<a href="/assets/images/albums/02.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/02.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -217,7 +217,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -274,7 +274,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -288,7 +288,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -343,8 +343,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/03.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/03.jpg" alt="">
+<a href="/assets/images/albums/03.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/03.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -352,7 +352,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -409,7 +409,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -423,7 +423,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -478,8 +478,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/04.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/04.jpg" alt="">
+<a href="/assets/images/albums/04.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/04.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -487,7 +487,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -544,7 +544,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -558,7 +558,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -613,8 +613,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/05.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/05.jpg" alt="">
+<a href="/assets/images/albums/05.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/05.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -622,7 +622,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -679,7 +679,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -693,7 +693,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -748,8 +748,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/06.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/06.jpg" alt="">
+<a href="/assets/images/albums/06.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/06.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -757,7 +757,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -814,7 +814,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -828,7 +828,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -901,8 +901,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/01.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/01.jpg" alt="">
+<a href="/assets/images/albums/01.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/01.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -910,7 +910,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -967,7 +967,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -981,7 +981,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -1036,8 +1036,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/02.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/02.jpg" alt="">
+<a href="/assets/images/albums/02.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/02.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -1045,7 +1045,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -1102,7 +1102,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -1116,7 +1116,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -1171,8 +1171,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/03.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/03.jpg" alt="">
+<a href="/assets/images/albums/03.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/03.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -1180,7 +1180,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -1237,7 +1237,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -1251,7 +1251,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -1324,8 +1324,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/01.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/01.jpg" alt="">
+<a href="/assets/images/albums/01.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/01.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -1333,7 +1333,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -1390,7 +1390,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -1404,7 +1404,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -1459,8 +1459,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/02.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/02.jpg" alt="">
+<a href="/assets/images/albums/02.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/02.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -1468,7 +1468,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -1525,7 +1525,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -1539,7 +1539,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -1594,8 +1594,8 @@ categories: album
 </div>
 </div>
 <!-- Dropdown END -->
-<a href="assets/images/albums/03.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
-<img class="rounded img-fluid" src="assets/images/albums/03.jpg" alt="">
+<a href="/assets/images/albums/03.jpg" data-gallery="image-popup" data-glightbox="description: .custom-desc2; descPosition: left;">
+<img class="rounded img-fluid" src="/assets/images/albums/03.jpg" alt="">
 </a>
 <!-- glightbox Albums left bar START -->
 <div class="glightbox-desc custom-desc2">
@@ -1603,7 +1603,7 @@ categories: album
 <div class="d-flex align-items-center">
 <!-- Avatar -->
 <div class="avatar me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Info -->
 <div>
@@ -1660,7 +1660,7 @@ categories: album
 <div class="d-flex mb-3">
 <!-- Avatar -->
 <div class="avatar avatar-xs me-2">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/04.jpg" alt="">
 </div>
 <!-- Comment box  -->
 <form class="position-relative w-100">
@@ -1674,7 +1674,7 @@ categories: album
 <div class="d-flex">
 <!-- Avatar -->
 <div class="avatar avatar-xs">
-<img class="avatar-img rounded-circle" src="assets/images/avatar/05.jpg" alt="">
+<img class="avatar-img rounded-circle" src="/assets/images/avatar/05.jpg" alt="">
 </div>
 <div class="ms-2">
 <!-- Comment by -->
@@ -1730,7 +1730,7 @@ categories: album
 <div class="col-6 col-lg-3">
 <!-- Album poster -->
 <a href="#">
-<img class="rounded img-fluid" src="assets/images/albums/01.jpg" alt="">
+<img class="rounded img-fluid" src="/assets/images/albums/01.jpg" alt="">
 </a>
 <!-- Album name -->
 <div class="hstack mt-3">
@@ -1761,7 +1761,7 @@ categories: album
 <div class="col-6 col-lg-3">
 <!-- Album poster -->
 <a href="#">
-<img class="rounded img-fluid" src="assets/images/albums/02.jpg" alt="">
+<img class="rounded img-fluid" src="/assets/images/albums/02.jpg" alt="">
 </a>
 <!-- Album name -->
 <div class="hstack mt-3">
@@ -1792,7 +1792,7 @@ categories: album
 <div class="col-6 col-lg-3">
 <!-- Album poster -->
 <a href="#">
-<img class="rounded img-fluid" src="assets/images/albums/03.jpg" alt="">
+<img class="rounded img-fluid" src="/assets/images/albums/03.jpg" alt="">
 </a>
 <!-- Album name -->
 <div class="hstack mt-3">
