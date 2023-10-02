@@ -22,6 +22,8 @@ myvariables:
 - url: "mainchat.html"
 - url: "modcreatefeed.html"
 - url: "createfeedphoto.html"
+- url: "createfeedvideo.html"
+- url: "createeventsfeed.html"
 ---
 <!-- Container START -->
 <div class="container">
