@@ -1,6 +1,6 @@
 ---
 layout: default1
-permalink: /index1.html
+permalink: /index.html
 title:  "index"
 date:   2023-02-19 03:52:04 +0000
 categories: album
