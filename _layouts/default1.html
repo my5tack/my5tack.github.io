@@ -3,7 +3,7 @@
 <html lang="en">
 {% if page.head %}
 {% include {{ page.head }} %}
-{{ else }}
+{% else %}
 {% include head1.html %}
 {% endif %}
 <body>
@@ -11,7 +11,7 @@
 Header START -->
 {% if page.header %}
 {% include {{ page.header }} %}
-{{ else }}
+{% else %}
 {% include header1.html %}
 {% endif %}
 <!-- =======================
