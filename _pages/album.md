@@ -5,15 +5,11 @@ title:  "Welcome to Emersa"
 date:   2023-02-19 03:52:04 +0000
 categories: album
 extrascripts:
-  - name: "Sarah Becker"
-    role: "project lead"
-    start_date: "2016-02-01"
-  - name: "Jane Smith"
-    role: maintainer
-    start_date: "2018-03-15"
-  - name: "Albert Hamilton"
-    role: editor
-    start_date: "2017-12-01"
+  - url: "/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"
+  - url: "/assets/vendor/glightbox-master/dist/js/glightbox.min.js"
+  - url: "/assets/vendor/choices.js/public/assets/scripts/choices.min.js"
+  - url: "/assets/vendor/dropzone/dist/min/dropzone.min.js"
+  - url: "/assets/js/functions.js"
 ---
 <!-- Container START -->
 <div class="container">
