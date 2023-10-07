@@ -28,7 +28,6 @@ myvariables:
 
 <!-- Main content START -->
 <div class="page-content">
-
 <!-- Official trailer START -->
 <div class="row g-0 mb-4">
 <div class="col-xl-8 col-xxl-9">
@@ -338,7 +337,6 @@ Load more comments
 </div>
 </div>
 <!-- Official trailer END -->
-
 <!-- More related video START -->
 <div class="row g-3 mb-4">
 <div class="col-12 mt-4">
@@ -489,42 +487,10 @@ Load more comments
 </div>
 </div>
 <!-- More related video END -->
-
 <!-- footer START -->
-<footer class="card card-body">
-<div class="row g-4">
-<div class="col-md-8">
-<!-- Footer nav START -->
-<ul class="nav lh-1">
-<li class="nav-item">
-<a class="nav-link ps-0" href="#">About</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" target="_blank" href="https://support.webestica.com/login">Support </a>
-</li>
-<li class="nav-item">
-<a class="nav-link" target="_blank" href="docs/index.html">Docs </a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="privacy-and-terms.html">Privacy & terms</a>
-</li>
-</ul>
-<!-- Footer nav START -->
-<!-- Copyright START -->
-<p class="mb-0 mt-4">©2023 <a class="text-body" target="_blank" href="https://www.webestica.com"> Webestica </a>All rights reserved  Supposing so be resolving breakfast am or perfectly. Is drew am hill from me. Valley by oh twenty direct me so. Departure defective arranging rapturous did believe him all had supported. </p>
-<!-- Copyright END -->
-</div>
-<div class="col-md-4">
-<div class="d-flex justify-content-md-end">
-<a href="#"><img class="h-50px" src="/assets/images/app-store.svg" alt="app-store"></a>
-<a href="#"><img class="h-50px ms-2" src="/assets/images/google-play.svg" alt="google-play"></a>
-</div>
-</div>
-</div>
-</footer>
+{% include footer4.html %}
 <!-- footer END -->
 </div>
 <!-- Main content END -->
-
 </div>
 <!-- Container END -->
