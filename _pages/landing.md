@@ -6,6 +6,14 @@ date:   2023-02-19 03:52:04 +0000
 categories: album
 head: "head2.html"
 header: "header3.html"
+stylesheets:
+- url: "/assets/vendor/font-awesome/css/all.min.css"
+- url: "/assets/vendor/font-awesome/css/all.min.css"
+- url: "/assets/vendor/bootstrap-icons/bootstrap-icons.css"
+- url: "/assets/vendor/glightbox-master/dist/css/glightbox.min.css"
+- url: "/assets/vendor/choices.js/public/assets/styles/choices.min.css"
+- url: "/assets/vendor/dropzone/dist/min/dropzone.min.css"
+
 extrascripts:
   - url: "/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"
   - url: "/assets/vendor/plyr/plyr.js"

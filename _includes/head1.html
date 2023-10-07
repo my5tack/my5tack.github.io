@@ -16,12 +16,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
 
+
 <!-- Plugins CSS -->
-<link rel="stylesheet" type="text/css" href="/assets/vendor/font-awesome/css/all.min.css">
-<link rel="stylesheet" type="text/css" href="/assets/vendor/bootstrap-icons/bootstrap-icons.css">
-<link rel="stylesheet" type="text/css" href="/assets/vendor/glightbox-master/dist/css/glightbox.min.css">
-<link rel="stylesheet" type="text/css" href="/assets/vendor/choices.js/public/assets/styles/choices.min.css">
-<link rel="stylesheet" type="text/css" href="/assets/vendor/dropzone/dist/min/dropzone.min.css" />
+{% if page.stylesheets %}{% for stylesheet in page.stylesheets %}
+<link rel="stylesheet" type="text/css" href="{{ stylesheet.url }}">{% endfor %}{% endif %}
 
 <!-- Theme CSS -->
 <link rel="stylesheet" type="text/css" href="/assets/css/style.css">

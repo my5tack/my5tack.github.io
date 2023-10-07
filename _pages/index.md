@@ -4,8 +4,19 @@ permalink: /index.html
 title:  "index"
 date:   2023-02-19 03:52:04 +0000
 categories: album
-head: "head3.html"
+head: "head1.html"
 header: "header1.html"
+stylesheets:
+- url: "/assets/vendor/font-awesome/css/all.min.css"
+- url: "/assets/vendor/bootstrap-icons/bootstrap-icons.css"
+- url: "/assets/vendor/OverlayScrollbars-master/css/OverlayScrollbars.min.css"
+- url: "/assets/vendor/tiny-slider/dist/tiny-slider.css"
+- url: "/assets/vendor/choices.js/public/assets/styles/choices.min.css"
+- url: "/assets/vendor/glightbox-master/dist/css/glightbox.min.css"
+- url: "/assets/vendor/dropzone/dist/dropzone.css"
+- url: "/assets/vendor/flatpickr/dist/flatpickr.css"
+- url: "/assets/vendor/plyr/plyr.css"
+- url: "/assets/vendor/zuck.js/dist/zuck.min.css"
 extrascripts:
 - url: "/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"
 - url: "/assets/vendor/tiny-slider/dist/tiny-slider.js"
