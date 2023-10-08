@@ -2,6 +2,12 @@
 layout: default2
 permalink: /pages/course-category.html
 head: "head4.html"
+stylesheets:
+- url: "/assets/libs/bootstrap-select/dist/css/bootstrap-select.min.css"
+- url: "/assets/fonts/feather/feather.css"
+- url: "/assets/libs/bootstrap-icons/font/bootstrap-icons.css"
+- url: "/assets/libs/@mdi/font/css/materialdesignicons.min.css"
+- url: "/assets/libs/simplebar/dist/simplebar.min.css"
 extrascripts:
 - url: "/assets/libs/jquery/dist/jquery.min.js"
 - url: "/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"
