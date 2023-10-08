@@ -25,12 +25,12 @@ myfooter:
 </div>
 </div>
 </section>
-<!-- Content -->
+
 <section class="py-7">
 <div class="container">
 <div class="row mb-6">
 <div class="col-md-12">
-<!-- Nav -->
+
 <ul class="nav nav-lb-tab mb-6" id="tab" role="tablist">
 <li class="nav-item ms-0" role="presentation">
 <a class="nav-link active" id="most-popular-tab" data-bs-toggle="pill" href="#most-popular" role="tab"
@@ -41,7 +41,7 @@ aria-controls="most-popular" aria-selected="true">Most Popular</a>
 aria-controls="trending" aria-selected="false">Trending</a>
 </li>
 </ul>
-<!-- Tab Content -->
+
 <div class="tab-content" id="tabContent">
 <!-- Tab Pane -->
 <div class="tab-pane fade show active" id="most-popular" role="tabpanel"
