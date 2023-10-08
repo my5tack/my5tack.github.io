@@ -24,11 +24,9 @@ Header END -->
 <!-- **************** MAIN CONTENT END **************** -->
 {% if page.myvariables %}
 {% for var in page.myvariables %}
-  {% include {{ var.url }} %}
+{% include {{ var.url }} %}
 {% endfor %}
 {% endif %}
-
-
 <!-- =======================
 JS libraries, plugins and custom scripts -->
 {% include lowerscript.html %}	

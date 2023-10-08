@@ -1,6 +1,6 @@
 ---
 layout: default2
-permalink: /test1/index1.html
+permalink: /test1/index.html
 head: "head4.html"
 extrascripts:
 - url: "/assets/libs/jquery/dist/jquery.min.js"
@@ -10,6 +10,8 @@ extrascripts:
 - url: "/assets/libs/@popperjs/core/dist/umd/popper.min.js"
 - url: "/assets/libs/tippy.js/dist/tippy-bundle.umd.min.js"
 - url: "/assets/js/vendors/tooltip.js"
+myfooter:
+- url: "footer1a.html"
 ---
 <section class="py-4 py-lg-6 bg-primary">
 <div class="container">
