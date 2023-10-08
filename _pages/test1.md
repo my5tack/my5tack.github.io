@@ -1,6 +1,6 @@
 ---
 layout: default2
-permalink: /test1/index.html
+permalink: /pages/course-category.html
 head: "head4.html"
 extrascripts:
 - url: "/assets/libs/jquery/dist/jquery.min.js"
