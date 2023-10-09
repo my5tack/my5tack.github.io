@@ -1,0 +1,112 @@
+menuroot:
+- menuroot2:
+  name: Emersa
+  submenuitems:
+    - submenus: 
+      name: All About Emersa
+      column: cols-1
+      line: twoline
+      submenuitems:
+        - submenuitem: 
+          name: About
+          description : Learn All About Emersa
+          link: /indexintro.html#who
+        - submenuitem:
+          name: Road Map
+          description : This is our Road Map
+          link: https://docs.google.com/document/d/1iaoqWEuOmQilFm4yEVASASLEZJT_78KB/edit?usp=sharing&ouid=105780024435462099389&rtpof=true&sd=true
+        - submenuitem: 
+          name: Team
+          description : Find Out About The Team
+          link: /indexintro.html#team
+        - submenuitem:
+          name: White Papers
+          description : This is about The White Papers
+          link: /indexintro.html#whitepapers
+- menuroot1:
+  name: Subscribe
+  link: /subscribe/
+- menuroot1:
+  name: Mint
+  link: /mint/
+menutest:
+- menuroot2:
+  name: Platform
+  link: /platform/
+  submenuitems:
+    - submenus: 
+      name: Platform Overview
+      column: cols-1
+      line: twoline
+      link: /platform/
+      submenuitems:
+        - submenuitem: 
+          name: Emersa
+          description : Welcome to Native <br>and Open XDR
+          link: /platform/
+        - submenuitem:
+          name: XDR Ingestion
+          description : One Home for All<br> Security Data
+          link: /platform/
+        - submenuitem: 
+          name: How It Works
+          description : The Singularity XDR Difference
+          link: /platform/
+        - submenuitem:
+          name: Singularity Marketplace
+          description : One-Click Integrations to Unlock the Power of XDR
+          link: /platform/
+    - submenus:
+      name: Surfaces
+      submenuitems:
+        - submenuitem: 
+          name: Endpoint
+          description : Welcome to Native <br>and Open XDR
+          link: /platform/
+        - submenuitem:
+          name: Cloud
+          description : Welcome to Native <br>and Open XDR
+          link: /platform/
+        - submenuitem:
+          name: Identity
+          description : Welcome to Native <br>and Open XDR
+          link: /platform/
+    - submenus:
+      name: Platform Packages
+      submenuitems:
+        - submenuitem: 
+          name: Endpoint
+          description : Welcome to Native <br>and Open XDR
+          link: /platform/
+        - submenuitem:
+          name: Cloud
+          description : Welcome to Native <br>and Open XDR
+          link: /platform/
+        - submenuitem:
+          name: Identity
+          description : Welcome to Native <br>and Open XDR
+          link: /platform/
+    - submenus:
+      name: Platform Products
+      submenuitems:
+        - submenuitem: 
+          name: Endpoint
+          description : Welcome to Native <br>and Open XDR
+          icon: /media/SingularityIdentity_Icon_Nav_36x36@2x.png
+          link: /platform/
+        - submenuitem:
+          name: Cloud
+          description : Welcome to Native <br>and Open XDR
+          icon: /media/SingularityIdentity_Icon_Nav_36x36@2x.png
+          link: /platform/
+        - submenuitem:
+          name: Identity
+          description : Welcome to Native <br>and Open XDR
+          icon: /media/SingularityIdentity_Icon_Nav_36x36@2x.png
+          link: /platform/
+- menuroot2:
+  name: dsff
+  link: /platform/
+  submenuitems:
+    - submenus:
+      name: dude

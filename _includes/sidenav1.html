@@ -12,6 +12,21 @@ aria-controls="sidenav" aria-expanded="false" aria-label="Toggle navigation">
 <div class="navbar-nav flex-column">
 <span class="navbar-header">Dashboard</span>
 <ul class="list-unstyled ms-n2 mb-4">
+{% if site.data.sidenav1.menu[0] %}
+{% for item in site.data.sidenav1.menu[0].menu1 %}
+1xczczxczxczczxczxczxczxczx
+{% endfor %}
+{% endif %}
+
+{% for menuroot1 in site.data.sidenav1.menu %}
+
+
+{% endfor %}
+
+
+
+
+
 <!-- Nav item -->
 <li class="nav-item active">
 <a class="nav-link" href="dashboard-instructor.html"><i class="fe fe-home nav-icon"></i>My Dashboard</a>

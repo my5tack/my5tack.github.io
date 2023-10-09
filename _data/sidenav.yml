@@ -1,17 +1,35 @@
 menu:
-- title: "DASHBOARD"
-  - url: "/pages/dashboard-instructor.html"
-    name: "My Courses"
-    icon: "fe-home"
-  - url: "/pages/instructor-courses.html"
-    name: "Reviews"
-    icon: "fe-book"
-  - url: "/pages/instructor-earning.html"
-    name: "Earnings"
-    icon: "fe-star"
-  - url: "/pages/instructor-order.html"
-    name: "Orders"
-    icon: "fe-pie-chart"
-  - url: "/pages/instructor-students.html"
-    name: "Students"
-    icon: ""
+- menu1: 
+  menuname: "DASHBOARD"
+  submenu:
+    - menu2:
+      url: "sdfsdf"
+      name: "sdfsdfsd"
+      icon: "fe-home"
+    - menu2:
+      url: "sdfsdf"
+      name: "sdfsdfsd"
+      icon: "fe-home"
+    - menu2:
+      url: "sdfsdf"
+      name: "sdfsdfsd"
+      icon: "fe-home"
+    - menu2:
+      url: "sdfsdf"
+      name: "sdfsdfsd"
+      icon: "fe-home"
+    - menu2:
+      url: "sdfsdf"
+      name: "sdfsdfsd"
+      icon: "fe-home"
+- menu1:
+  menuname: "df"
+  submenu:
+    - menu2:
+      url: "tre"
+      name: "dfg"
+      icon: "dfg"
+    - menu2:
+      url: "erte"
+      name: "werew"
+      icon: "erter"
